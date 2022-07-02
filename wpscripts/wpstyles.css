@@ -1,0 +1,23 @@
+﻿body {margin:0;padding:0;word-wrap:break-word;}
+img {border:none;}
+input:not([type=image]) {border:1px solid black;border-radius:2px;padding:0;}
+textarea {border:1px solid black;padding:0;}
+* {box-sizing:content-box;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;-ms-box-sizing:content-box;}
+a:link {color:#28aae2;text-decoration:underline;}
+a:visited {color:#28aae2;text-decoration:underline;}
+a:hover {color:#28aae2;text-decoration:underline;}
+a:active {color:#28aae2;text-decoration:underline;}
+.Body-Text { text-align:left;line-height:12.00px;margin:0px;text-indent:0.0px;font-family:"Verdana", sans-serif;font-style:normal;font-weight:normal;color:#606060;background-color:transparent;text-decoration:none;font-variant:normal;font-size:9.3px;vertical-align:0; }
+.Body-Text---Col { text-align:left;line-height:16.00px;margin:0px;text-indent:0.0px;font-family:"Verdana", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:13.3px;vertical-align:0; }
+.Body-Text-2 { text-align:left;line-height:16.0px;margin:0px;text-indent:0.0px;font-family:"Verdana", sans-serif;font-style:normal;font-weight:normal;color:#404040;background-color:transparent;text-decoration:none;font-variant:normal;font-size:10.7px;vertical-align:0; }
+.Fine-Print { text-align:center;line-height:11.00px;margin:0px;text-indent:0.0px;font-family:"Tahoma", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:9.3px;vertical-align:0; }
+.Fine-Print2 { text-align:center;line-height:11.00px;margin:0px;text-indent:0.0px;font-family:"Tahoma", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:9.3px;vertical-align:0; }
+.Heading-1 { text-align:left;line-height:35.00px;margin:0px;text-indent:0.0px;font-family:"Trebuchet MS", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:26.7px;vertical-align:0; }
+.Heading-3 { text-align:left;line-height:17.00px;margin:0px;text-indent:0.0px;font-family:"Verdana", sans-serif;font-style:normal;font-weight:normal;color:#2d2b2b;background-color:transparent;text-decoration:none;font-variant:normal;font-size:14.0px;vertical-align:0; }
+.Heading-42 { text-align:center;line-height:81.00px;margin:0px;text-indent:0.0px;font-family:"Trebuchet MS", sans-serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:64.0px;vertical-align:0; }
+.Normal { text-align:left;line-height:13.00px;margin:0px;text-indent:0.0px;font-family:"Verdana", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:10.7px;vertical-align:0; }
+.Normal2 { text-align:center;line-height:34.50px;margin:0px;text-indent:0.0px;font-family:"Times New Roman", serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:18.7px;vertical-align:0; }
+.Sub-Heading { text-align:center;line-height:24.00px;margin:0px 0px 12px;text-indent:0.0px;font-family:"Trebuchet MS", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:18.7px;vertical-align:0; }
+.Sub-Title { text-align:right;line-height:15.00px;margin:0px;text-indent:0.0px;font-family:"Humanst521 BT", sans-serif;font-style:normal;font-weight:normal;color:#2d2b2b;background-color:transparent;text-decoration:none;font-variant:normal;font-size:13.3px;vertical-align:0; }
+.Title { text-align:left;line-height:47.00px;margin:0px;text-indent:0.0px;font-family:"Humanst521 BT", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:40.0px;vertical-align:0; }
+.Placeholder { font-family:"Verdana", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:10.7px;vertical-align:0; }
